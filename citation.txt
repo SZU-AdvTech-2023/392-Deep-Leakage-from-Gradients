@@ -1,0 +1,7 @@
+@article{REPO392,
+    author = "Zhu, Ligeng and Liu, Zhijian and Han, Song",
+    journal = "Advances in neural information processing systems",
+    title = "{Deep Leakage From Gradients}",
+    volume = "32",
+    year = "2019"
+}
